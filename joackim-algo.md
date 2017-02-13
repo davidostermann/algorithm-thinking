@@ -6,11 +6,11 @@
 Allume la console
 
 ## Ma machine possède
-Une mémoire (par défaut)
-Une camera
-Des ports pour connecter l'ordinateur à la console
-Un écran
-multimetre
+- Une mémoire (par défaut)
+- Une camera
+- Des ports pour connecter l'ordinateur à la console
+- Un écran
+- multimetre
 
 ## Ordres
 
@@ -29,6 +29,9 @@ On estime que la console est allumée si les ampères dépassent 15
 ```
 
 ### Exercice 2 : L'ordinateur à qui vous donner des ordres :
+
+```
+
 var amperes = 0
 var onOrOff = false
 
@@ -36,3 +39,5 @@ var amperes = multimetre.getAmp(console)
 if (amperes >= 15) { onOrOff = true }
 console.log('La console est allumée')
 else { console.log('La console est éteinte')}
+
+```
