@@ -4,11 +4,11 @@
 
 ## Je veux que la machine
 - Allume la console
+[À faire peut-etre ?]
 - Classer les noms des élèves d'une classe de z à a
 
 ## Ma machine possède
 - Une mémoire (par défaut)
-- Une camera
 - Des ports pour connecter l'ordinateur à la console
 - Un écran
 - multimetre
