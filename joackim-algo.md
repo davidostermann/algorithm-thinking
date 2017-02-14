@@ -56,8 +56,11 @@ while(ampere == 0) {
       for(var i = 1; i <= 15; i++) {
         ampereRetour++
       }
-      console.log('la console est allumée')
+      console.log('La console est allumée')
       ampere = ampereRetour
+  } else {
+      console.log('La console est morte')
+      break
   }
 }
 
